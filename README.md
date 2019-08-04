@@ -1,4 +1,4 @@
-# is-null-or-empty
+# small-gematria
 
 A Node.js package that returns the "small" Gematria for a given Hebrew string.
 
