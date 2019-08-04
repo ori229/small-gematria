@@ -1,0 +1,25 @@
+{
+  "name": "small-gematria",
+  "version": "1.0.0",
+  "description": "Calculate numeric value of Hebrew text according to Jewish numerology, with the smallest method",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ori229/small-gematria.git"
+  },
+  "keywords": [
+    "gematria"
+  ],
+  "author": "ori229",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ori229/small-gematria/issues"
+  },
+  "homepage": "https://github.com/ori229/small-gematria#readme",
+  "dependencies": {
+    "gematria": "^1.0.0"
+  }
+}
