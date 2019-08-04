@@ -1,8 +1,8 @@
-ï»¿// Change './index' to 'small-gematria' if you use this code outside of this package
+// Change './index' to 'small-gematria' if you use this code outside of this package
 var smallGematria = require('./index');
 
-console.log(smallGematria("àåøé"));
-console.log(smallGematria("ãğé"));
-console.log(smallGematria("éåàá"));
-console.log(smallGematria("úîø"));
-console.log(smallGematria("îéìø"));
+console.log(smallGematria("××•×¨×™"));
+console.log(smallGematria("×“× ×™"));
+console.log(smallGematria("×™×•××‘"));
+console.log(smallGematria("×ª××¨"));
+console.log(smallGematria("××™×œ×¨"));
