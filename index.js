@@ -6,18 +6,18 @@ function smallGematria(input) {
 	input = input
 	.replace("י", "א")
 	.replace("כ", "ב")
-	.replace("ך", "ב")
+	.replace("ך", "ב") // sofit
 	.replace("ל", "ג")
 	.replace("מ", "ד")
-	.replace("ם", "ד")
+	.replace("ם", "ד") // sofit
 	.replace("נ", "ה")
-	.replace("ן", "ה")
+	.replace("ן", "ה") // sofit
 	.replace("ס", "ו")
 	.replace("ע", "ז")
 	.replace("פ", "ח")
-	.replace("ף", "ח")
+	.replace("ף", "ח") // sofit
 	.replace("צ", "ט")
-	.replace("ץ", "ט")
+	.replace("ץ", "ט") // sofit
 	.replace("ק", "א")
 	.replace("ר", "ב")
 	.replace("ש", "ג")
